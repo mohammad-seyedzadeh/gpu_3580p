@@ -18,10 +18,11 @@ int main ()
 {
 
 
-int i=5;
+int i=50;
 
 cout<<"\n"<<(i/8)<<"\n";
-
+cout<<"\n"<<(i/8)<<"\n";cout<<"\n"<<(i/8)<<"\n";
+cout<<"\n"<<(i/8)<<"\n";
 	
 
   return 0;
